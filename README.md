@@ -59,7 +59,7 @@ The solution is: [(0, 1), (1, 1), (1, 2), (1, 3), (1, 4), (2, 4), (3, 4), (4, 4)
 ```
 <img width="500" alt="maze-solver-stack3" src="https://github.com/user-attachments/assets/a1ff6760-4dd3-49fd-bb43-0693b14171bc">
 
-# :desktop_computer: Runn
+# :desktop_computer: Get Started
 Compile:
 ```
 javac*.java
