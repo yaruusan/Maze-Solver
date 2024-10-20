@@ -1,7 +1,7 @@
 <h1 align="center"> Maze Solver </h1>
 <h3 align="center"> CPS 112 - Project Assignment 5 </h3>
 
-# 📚 Table of Contents
+# 📚 Contents
 1. [About The Project](#-about-the-project)
 2. [Features](#-features)
 3. [Project Files Description](#open_file_folder-project-files-description)
@@ -59,16 +59,16 @@ The solution is: [(0, 1), (1, 1), (1, 2), (1, 3), (1, 4), (2, 4), (3, 4), (4, 4)
 ```
 <img width="500" alt="maze-solver-stack3" src="https://github.com/user-attachments/assets/a1ff6760-4dd3-49fd-bb43-0693b14171bc">
 
-# :desktop_computer: Getting Started
+# :desktop_computer: Runn
 Compile:
 ```
 javac*.java
 ```
-Run using stack:
+Run using __Depth-First Search__:
 ```
 java MazeGUI mazefile1.txt s
 ```
-Run using queue:
+Run using __Breadth-First Search__:
 ```
 java MazeGUI mazefile1.txt q
 ```
